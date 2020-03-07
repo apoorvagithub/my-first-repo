@@ -3,4 +3,6 @@ print("hello world")
 // this will only print hello world
 // this is a python file
 print("i just edited this github file")
+print("pizza")
+print("beans")
 //thankyou ;)
